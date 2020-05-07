@@ -1,0 +1,10 @@
+public class Dog extends Animal{
+	String name = "dog+¹·";
+	void cry(){
+		System.out.println("¹·½Ð£º/¡°ÍôÍô/¡±");
+	}
+
+	String getAnimalName(){
+		return name;
+	}
+}
